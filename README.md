@@ -1,0 +1,1 @@
+An interface consisting of different features mainly auto brightness and contrast adjustment.
